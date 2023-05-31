@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jet Endemics ID</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+    <string name="search_hewan">Cari hewan</string>
+    <string name="home_page">about_page</string>
+    <string name="about_page">about_page</string>
+
+</resources>
